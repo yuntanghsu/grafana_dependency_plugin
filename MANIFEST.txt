@@ -12,7 +12,7 @@ Hash: SHA512
   ],
   "plugin": "theia-grafana-sankey-plugin",
   "version": "1.0.1",
-  "time": 1697743784110,
+  "time": 1697750402446,
   "keyId": "7e4d0c6a708866e7",
   "files": {
     "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
@@ -27,10 +27,10 @@ Hash: SHA512
 Version: OpenPGP.js v4.10.10
 Comment: https://openpgpjs.org
 
-wrgEARMKAAYFAmUxg6gAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
-cIhm56SkAgkBruGN4b5bmjWk/RS3/ayGRwjBcfO8OdGzyytUajooAWH33CDz
-+/imQBPmykTAkpJMmtkhTM+Bi+k4l1eh81PD5c0CCNCovcrGh3HB3LyxkR9E
-vqIe26RkKogLnr3w72E4iuFlAJA1T0tW8glYtaczPi8stgyoozRa+Anv/U/I
-oVlVBEXZ
-=95Ys
+wrgEARMKAAYFAmUxnYIAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm5zi/AgkBo9lX9dkyoK8TqT/gwRpiavF5L4gHDO9GhxbPg3SFmF77yGm4
+FwV+8g/xsImFIUhpzwNPimF9tYpTD5hx01v9W/MCB2m31J4oIWR5+AzCZLpc
+pkJ30tghFhTTLr7WHKhaEghlkY8MAu0c73KAGbhzDcgXz85Dh4LNKTmUQkJu
+BznLlIyp
+=7oFC
 -----END PGP SIGNATURE-----
